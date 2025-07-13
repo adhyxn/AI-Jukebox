@@ -12,6 +12,7 @@ Automated Playlist Generation: Creates, updates, and manages Spotify playlists b
 
 Secure Spotify Integration: Uses OAuth 2.0 to fetch real-time Spotify data like liked songs, playlists, and playback history.
 
+
 Tech Stack:
 
 Frontend: React.js, HTML, CSS, Tailwind CSS, JavaScript
@@ -23,6 +24,7 @@ APIs: Spotify API, Google Gemini (LLM), Sentiment Analysis Tools
 Authentication: OAuth 2.0 (Spotify)
 
 Database: Corpus of user preferences to refine recommendations through continuous learning and adaptive logic.
+
 
 How It Works:
 
