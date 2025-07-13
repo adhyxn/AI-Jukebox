@@ -3,6 +3,7 @@
 AI JukeBox is an intelligent music player that delivers personalized song recommendations based on user emotions, moods, and preferences. Powered by Spotify's API, Google Gemini LLM, and advanced sentiment analysis, it transforms music discovery into an interactive and conversational experience.
 
 Features:
+
 Emotion-Based Recommendations: Suggests songs and playlists aligned with the user's emotional state and mood.
 
 Chatbot DJ: Natural language chatbot interface for conversational music selection and control.
