@@ -1,6 +1,6 @@
-# AI Jukebox
+# AI Jukebox: Smart Music Explorer
 
-AI JukeBox is an intelligent music player that delivers personalized song recommendations based on user emotions, moods, and preferences. Powered by Spotify's API, Google Gemini LLM, and advanced sentiment analysis, it transforms music discovery into an interactive and conversational experience.
+AI JukeBox is an AI based music player that delivers personalized song recommendations based on user emotions, moods, and preferences. Powered by Spotify's API, Google Gemini LLM and advanced sentiment analysis, it transforms music discovery into an interactive and conversational experience.
 
 Features:
 
