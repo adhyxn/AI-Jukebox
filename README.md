@@ -28,15 +28,17 @@ Database: Corpus of user preferences to refine recommendations through continuou
 
 How It Works:
 
-Authenticate via Spotify OAuth 2.0 to securely access user data.
+•	Authenticate via Spotify OAuth 2.0 to securely access user data.
 
-Interact via Chatbot using natural language commands like:
+•	Interact via Chatbot using natural language commands like:
 
 “Play some relaxing music for studying”
+
 “Generate a happy mood playlist”
 
-Recommendation Engine processes input using LLM and sentiment analysis to curate playlists.
+•	Recommendation Engine processes input using LLM and sentiment analysis to curate playlists.
 
-Manage Playlists directly in your Spotify account with AI-curated suggestions.
+•	Manage Playlists directly in your Spotify account with AI-curated suggestions.
 
-Continuous Learning: The system refines recommendations based on user feedback and listening patterns.
+•	Continuous Learning: The system refines recommendations based on user feedback and listening patterns.
+
